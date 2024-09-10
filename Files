@@ -1,0 +1,5 @@
+Create table Employee
+(
+  Emp_id int,
+  Emp_name Varchar
+)
