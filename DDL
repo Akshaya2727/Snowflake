@@ -1,0 +1,5 @@
+Create table Test
+(
+  ID int,
+Name Varchar
+)
